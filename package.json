@@ -1,0 +1,23 @@
+{
+  "name": "react-state",
+  "version": "1.0.0",
+  "scripts": {
+    "start:one": "parcel src/scenario_one/index.html",
+    "start:two": "parcel src/scenario_two/index.html",
+    "start:three": "parcel src/scenario_three/index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "babel-preset-mobx": "^2.0.0",
+    "parcel-bundler": "^1.10.1",
+    "typescript": "^3.1.1"
+  },
+  "dependencies": {
+    "mobx": "^5.5.0",
+    "mobx-react": "^5.2.8",
+    "react": "^16.6.0",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.1.0",
+    "redux": "^4.0.1"
+  }
+}
