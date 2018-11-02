@@ -25,5 +25,5 @@ or
 yarn start:one
 ```
 
-and the second and third sub-apps can be started with a similar script just replacing `:one` with `:two` or `three`.
+and the second and third sub-apps can be started with a similar script just replacing `:one` with `:two` or `:three`.
 
