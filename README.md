@@ -1,5 +1,5 @@
 # Fluffy React
-This application is used as the demo for [this](https://slides.com/ntokozozwane/reactjs-over-the-hype-and-under-the-hood)
+This application is used as the demo for [this](https://slides.com/ntkzwane/reactjs-over-the-hype-and-under-the-hood)
 presentation for entry-level React users. It is split up into three sub-apps:
 
 1. Basic react component
